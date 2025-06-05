@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringDependencyInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringEntityRelations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringJDBCDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringJpaPractice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringbootMock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtoTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/entityRelationGuru/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flyway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/newProj/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/newflyway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-6-rest-mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-6-webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-jpa-ex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDataJpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springTest/src/main/java" charset="UTF-8" />
+  </component>
+</project>

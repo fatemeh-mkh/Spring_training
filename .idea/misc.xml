@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/flyway/pom.xml" />
+        <option value="$PROJECT_DIR$/dtoTest/pom.xml" />
+        <option value="$PROJECT_DIR$/newProj/pom.xml" />
+        <option value="$PROJECT_DIR$/newflyway/pom.xml" />
+        <option value="$PROJECT_DIR$/springTest/pom.xml" />
+        <option value="$PROJECT_DIR$/restTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/springDataJpa/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringbootMock/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJDBCDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-6-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-6-rest-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJpaPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/entityRelationGuru/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jpa-ex/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringEntityRelations/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDependencyInjection/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

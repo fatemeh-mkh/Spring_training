@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="newflyway" />
+        <module name="SpringJDBCDemo" />
+        <module name="newProj" />
+        <module name="flyway" />
+        <module name="restTemplate" />
+        <module name="spring-6-rest-mvc" />
+        <module name="demo (1) (com.example)" />
+        <module name="spring-6-webapp" />
+        <module name="demo" />
+        <module name="springDataJpa" />
+        <module name="SpringEntityRelations" />
+        <module name="dtoTest" />
+        <module name="SpringbootMock" />
+        <module name="entityRelationGuru" />
+        <module name="spring-boot-rest" />
+        <module name="SpringDependencyInjection" />
+      </profile>
+      <profile name="Annotation profile for springTest" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.5.4.Final/mapstruct-processor-1.5.4.Final.jar" />
+        </processorPath>
+        <module name="springTest" />
+      </profile>
+      <profile name="Annotation profile for springTest (1)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+        </processorPath>
+        <module name="springTest (1)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringDependencyInjection" options="-parameters" />
+      <module name="SpringEntityRelations" options="-parameters" />
+      <module name="SpringJDBCDemo" options="-parameters" />
+      <module name="SpringbootMock" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo (1) (com.example)" options="-parameters" />
+      <module name="dtoTest" options="-parameters" />
+      <module name="entityRelationGuru" options="-parameters" />
+      <module name="flyway" options="-parameters" />
+      <module name="newProj" options="-parameters" />
+      <module name="newflyway" options="-parameters" />
+      <module name="restTemplate" options="-parameters" />
+      <module name="spring-6-rest-mvc" options="-parameters" />
+      <module name="spring-6-webapp" options="-parameters" />
+      <module name="spring-boot-rest" options="-parameters" />
+      <module name="springDataJpa" options="-parameters" />
+      <module name="springTest" options="-parameters" />
+      <module name="springTest (1)" options="-parameters" />
+    </option>
+  </component>
+</project>
