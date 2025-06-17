@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringEntityRelations/SpringEntityRelations.iml" filepath="$PROJECT_DIR$/SpringEntityRelations/SpringEntityRelations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entityRelationGuru/entityRelationGuru.iml" filepath="$PROJECT_DIR$/entityRelationGuru/entityRelationGuru.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring training.iml" filepath="$PROJECT_DIR$/.idea/spring training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springTest/springTest.iml" filepath="$PROJECT_DIR$/springTest/springTest.iml" />
     </modules>
   </component>
 </project>
